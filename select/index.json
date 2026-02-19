@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "one room",
+  "base_artist": "back number",
+  "createdAt": "2026-02-19T11:30:26.397104Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gatekeeper - One Room One Hour Mix",
+      "artist": "Feist",
+      "has_synced": true,
+      "path": "select/01_Gatekeeper_-_One_Room_One_Hour_Mix_Feist.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gatekeeper [One Room One Hour Mix]",
+      "artist": "Feist",
+      "has_synced": true,
+      "path": "select/02_Gatekeeper_[One_Room_One_Hour_Mix]_Feist.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Room Country Shack",
+      "artist": "Buddy Guy",
+      "has_synced": true,
+      "path": "select/03_One_Room_Country_Shack_Buddy_Guy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Room Disco",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/04_One_Room_Disco_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Room Seaside Step",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/05_One_Room_Seaside_Step_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Room Country Shack",
+      "artist": "Buddy Guy",
+      "has_synced": false,
+      "path": "select/06_One_Room_Country_Shack_Buddy_Guy.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "House Party Muka One Room",
+      "artist": "Chef 187",
+      "has_synced": false,
+      "path": "select/07_House_Party_Muka_One_Room_Chef_187.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Room, One Axe, One Outcome",
+      "artist": "Orange Goblin",
+      "has_synced": true,
+      "path": "select/08_One_Room,_One_Axe,_One_Outcome_Orange_Goblin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Room Disco - Original Instrumental",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/09_One_Room_Disco_-_Original_Instrumental_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "one room",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/10_one_room_back_number.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Room",
+      "artist": "Back Number",
+      "has_synced": false,
+      "path": "select/11_One_Room_Back_Number.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One Room Disco [ワンルーム・ディスコ]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/12_One_Room_Disco_[ワンルーム・ディスコ]_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One-Room Seaside Step [ワンルーム・シーサイド・ステップ]",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/13_One-Room_Seaside_Step_[ワンルーム・シーサイド・ステップ]_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "One Room Country Shack",
+      "artist": "Mose Allison",
+      "has_synced": false,
+      "path": "select/14_One_Room_Country_Shack_Mose_Allison.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Gatekeeper - One Room One Hour Mix",
+      "artist": "Feist",
+      "has_synced": false,
+      "path": "select/15_Gatekeeper_-_One_Room_One_Hour_Mix_Feist.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "one room",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_one_room_back_number.txt"
+    }
+  ]
+}
